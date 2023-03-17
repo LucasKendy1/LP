@@ -1,5 +1,9 @@
 {
     "files.associations": {
-        "TEMPERATURA.C": "c"
+        "TEMPERATURA.C": "c",
+        "OBESO.C": "cpp",
+        "PERIMETRO.C": "cpp",
+        "DISTANCIA.C": "cpp",
+        "conio.h": "c"
     }
 }
