@@ -5,6 +5,7 @@
     "PERIMETRO.C": "cpp",
     "DISTANCIA.C": "cpp",
     "conio.h": "c",
-    "stdlib.h": "c"
+    "stdlib.h": "c",
+    "random": "c"
   }
 }
