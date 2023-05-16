@@ -4,6 +4,21 @@
         "OBESO.C": "cpp",
         "PERIMETRO.C": "cpp",
         "DISTANCIA.C": "cpp",
-        "conio.h": "c"
+        "conio.h": "c",
+        "EX1 A.C": "cpp",
+        "EX1 B.C": "cpp",
+        "EX1 C.C": "cpp",
+        "EX1 D.C": "cpp",
+        "EX1E.C": "cpp",
+        "EX1 E.C": "cpp",
+        "EX1 F.C": "cpp",
+        "EX1 F copy.C": "cpp",
+        "EX1 G.C": "cpp",
+        "EX1 G copy.C": "cpp",
+        "EX1 H.C": "cpp",
+        "EX1 I.C": "cpp",
+        "EX1 J.C": "cpp",
+        "EX1 OPCIONAL.C": "cpp",
+        "EX3 EXERCICIO.C": "cpp"
     }
 }
