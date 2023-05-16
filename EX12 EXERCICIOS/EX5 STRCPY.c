@@ -2,8 +2,8 @@
 #include <string.h>
 
 main(){
-    char fonte[5] = "BCC";
-    char destino[50] = "Programa de Ensino e Tutoria";
+    char fonte[5] = "lucas";
+    char destino[50] = "clarinha";
     
     printf("String fonte: %s\n", fonte);
     printf("String destino: %s\n\n", destino);

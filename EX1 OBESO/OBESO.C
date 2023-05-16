@@ -11,7 +11,7 @@ main(){
 	scanf("%f",&peso);
 	printf("\n Qual sua altura em metros?" );
 	scanf("%f",&altura);
-	imc=peso/pow(altura,2);
+	imc = peso / pow(altura,2);
 	printf("\n\n");
 	printf("\Seu IMC e %.1f",imc);
 	

@@ -1,5 +1,5 @@
 //---------Exercicio em sala de aula-----------//
-//--- Autores: Lucas Kendy & Pedro Barreiro ---//
+//--- Autores: Lucas Kendy & Pedro Barreiro e Clara Maria  ---//
 
 /*
 Uma agência bancaria de uma cidade do interior tem, no maximo, 10000 clientes. 

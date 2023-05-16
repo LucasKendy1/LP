@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 main(){
-    char nome[61];
+    char nome[16];
 
     printf("Digite seu nome: ");
     // scanf("%s",&nome);
