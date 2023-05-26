@@ -47,49 +47,10 @@ int main(){
             }
         }
     }
+    
     printf("O vetor ordenado:\n");
     for(int i=0; i<tam_vet; i++){
         printf("%d\n",a[i]); 
-    }
-    printf("Agora vamos procurar o elemento com busca binaria: \n");
-    printf("O elemento a ser pesquisado: %d\n",pesquisa);
-    inicial=0;
-    final=tam_vet-1;
-    encontrado=0;
-    do{
-        meio=(inicial+final)/2;
-
-        // printf("inicial: %d\n",a[inicial]); 
-        // printf("meio: %d\n",a[meio]); 
-        // printf("final: %d\n",a[final]); 
-        
-        if(pesquisa==a[inicial]){
-            encontrado=1; 
-            printf("O numero %d foi encontrado na posicao %d\n",pesquisa,inicial);
-            break;
-        }
-        if(pesquisa==a[final]){
-            encontrado=1; 
-            printf("O numero %d foi encontrado na posicao %d\n",pesquisa,final);
-            break;
-        }
-        if(pesquisa==a[meio]){
-            encontrado=1;
-            printf("O numero %d foi encontrado na posicao %d\n",pesquisa,meio);
-            break;
-        }
-        else if(pesquisa>a[meio]){  //lado direito
-            inicial=meio++;
-        }       
-        else{                       //lado esquerdo
-            final=meio--;
-        }
-        if(inicial==meio || final==meio && encontrado==0){
-            parar_loop=1;
-        }
-    }while(parar_loop==0);
-    if(encontrado!=1){
-        printf("\nO elemento nao foi encontrado");
     }
     return 0;
 }
