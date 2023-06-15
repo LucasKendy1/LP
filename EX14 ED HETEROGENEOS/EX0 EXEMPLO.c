@@ -33,7 +33,6 @@ int main(void)
   fgets(aluno.disciplina, 40, stdin);
   
   printf("Informe a 1a. nota ..: ");
-  
   scanf("%f", &aluno.nota_prova1);
   
   printf("Informe a 2a. nota ..: ");
