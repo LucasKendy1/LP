@@ -1,0 +1,6 @@
+1 - banho
+2 - comer
+3 - abacate
+4 - jogar
+1 - comer
+2 - lalala
